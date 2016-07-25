@@ -13,4 +13,5 @@ class Fighter
 		self.health -= enemy_power	
 	end
 end
+I made a change
 
